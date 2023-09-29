@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exam-products/static/css/main.a2705cd4.css",
+    "main.js": "/exam-products/static/js/main.70648dc6.js",
+    "index.html": "/exam-products/index.html",
+    "main.a2705cd4.css.map": "/exam-products/static/css/main.a2705cd4.css.map",
+    "main.70648dc6.js.map": "/exam-products/static/js/main.70648dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2705cd4.css",
+    "static/js/main.70648dc6.js"
+  ]
+}
